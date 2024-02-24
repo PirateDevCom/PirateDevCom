@@ -102,7 +102,7 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36" /></a>&nbsp;
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/186/" width="36" height="36" alt="Flask" /></a>&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>&nbsp;
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
