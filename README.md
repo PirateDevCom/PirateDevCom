@@ -110,7 +110,7 @@
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="36" height="36" /></a>&nbsp;
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="36" height="36" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/238/" alt="Kafka" width="36" height="36" /></a>&nbsp;
 </p>
 
 
@@ -127,7 +127,7 @@
 
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/239/" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
 </p>
