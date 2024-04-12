@@ -38,111 +38,137 @@
 
 <h2>Skills</h2>
 
-###### Languages
-
-<p align="left">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
-    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="36" height="36"/></a>&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>&nbsp;
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>&nbsp;
-</p>
-
-
 ###### Databases
 
 <p align="left">
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/174/" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
+    <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/176/" width="40" height="40" alt="Snowflake" /></a>&nbsp;
     <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
         <img src="https://api.coolbytes.in/media/handle/view/image/175/" width="40" height="40" alt="Redshift" /></a>&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/173/" width="36" height="36" alt="MySQL" /></a>&nbsp;
+    <a href="https://duckdb.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/266/" width="36" height="36" alt="DuckDB" /></a>&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="36" height="36"/></a>&nbsp;
-    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="36" height="36"/></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/177/" width="36" height="36" alt="MongoDB" /></a>&nbsp;
+    <a href="https://tinydb.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/267/" width="36" height="36" alt="TinyDB" /></a>&nbsp;
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="36" height="36"/></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/255/" alt="Apache Cassandra" width="36" height="36"/></a>&nbsp;
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/179/" alt="Redis" width="36" height="36"/></a>&nbsp;
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="36" height="36"/></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/256/" alt="Elastic Search" width="36" height="36"/></a>&nbsp;
+    <a href="https://neo4j.com" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/192/" alt="Neo4j" width="36" height="36"/></a>&nbsp;
 </p>
 
-
-###### Frontend
+###### Big Data Technologies
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
+    <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/181/" width="36" height="36" alt="Apache Hadoop" /></a>&nbsp;
+    <a href="https://spark.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/182/" width="36" height="36" alt="Apache Spark" /></a>&nbsp;
+    <a href="https://hive.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/257/" width="36" height="36" alt="Apache Hive" /></a>&nbsp;
+    <a href="https://iceberg.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/268/" width="36" height="36" alt="Apache Iceberg" /></a>&nbsp;
+    <a href="https://hudi.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/215/" width="36" height="36" alt="Apache Hudi" /></a>&nbsp;
+    <a href="https://hbase.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/265/" width="36" height="36" alt="Apache HBase" /></a>&nbsp;
+    <a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/264/" width="36" height="36" alt="AWS Glue" /></a>&nbsp;
+    <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/263/" width="36" height="36" alt="Amazon EMR" /></a>&nbsp;
+    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/238/" width="36" height="36" alt="Apache Kafka" /></a>&nbsp;
+    <a href="https://trino.io" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/269/" width="36" height="36" alt="Trino" /></a>&nbsp;
 </p>
 
-
-###### Backend
+###### Programming Languages
 
 <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36" /></a>&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/168/" width="36" height="36" alt="SQL" /></a>&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/172/" width="36" height="36" alt="Python" /></a>&nbsp;
+    <a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/243/" width="36" height="36" alt="C" /></a>&nbsp;
+    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/171/" width="36" height="36" alt="Scala" /></a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/170/" width="36" height="36" alt="JavaScript" /></a>&nbsp;
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/246/" width="36" height="36" alt="Dart" /></a>&nbsp;
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/244/" width="36" height="36" alt="Swift" /></a>&nbsp;
+</p>
+
+###### Cloud Platforms
+
+<p align="left">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/239/" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/242/" width="36" height="36" alt="Google Cloud Platform" /></a>&nbsp;
+</p>
+
+###### Frameworks
+
+<p align="left">
+    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/185/" width="36" height="36" alt="Django" /></a>&nbsp;
+    <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/282/" width="36" height="36" alt="Django Rest Framework" /></a>&nbsp;
+    <a href="https://flask.palletsprojects.com/en/" target="_blank" rel="noreferrer">
         <img src="https://api.coolbytes.in/media/handle/view/image/186/" width="36" height="36" alt="Flask" /></a>&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/251/" width="36" height="36" alt="FastAPI" /></a>&nbsp;
+    <a href="https://react.dev" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/184/" width="36" height="36" alt="React" /></a>&nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/253/" width="36" height="36" alt="Material UI" /></a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/250/" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/252/" width="36" height="36" alt="Redux" /></a>&nbsp;
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/247/" width="36" height="36" alt="Flutter" /></a>&nbsp;
+    <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/245/" width="36" height="36" alt="SwiftUI" /></a>&nbsp;
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase" /></a>&nbsp;
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="36" height="36" /></a>&nbsp;
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://api.coolbytes.in/media/handle/view/image/238/" alt="Kafka" width="36" height="36" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/254/" width="36" height="36" alt="Firebase" /></a>&nbsp;
 </p>
-
 
 ###### DevOps
 
 <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36" /></a>&nbsp;
-</p>
-
-###### Cloud
-
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://api.coolbytes.in/media/handle/view/image/239/" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
-</p>
-
-###### Other
-
-<p align="left">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="36" height="36" /></a>&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/259/" width="36" height="36" alt="Git" /></a>&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/258/" width="36" height="36" alt="Linux" /></a>&nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/260/" width="36" height="36" alt="Docker" /></a>&nbsp;
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/261/" width="36" height="36" alt="Kubernetes" /></a>&nbsp;
     <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>&nbsp;
+        <img src="https://api.coolbytes.in/media/handle/view/image/262/" width="36" height="36" alt="Raspberry Pi" /></a>&nbsp;
+</p>
+
+###### Tools
+
+<p align="left">
+    <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/183/" width="36" height="36" alt="Airflow" /></a>&nbsp;
+    <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/241/" width="36" height="36" alt="QlikView" /></a>&nbsp;
+    <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/240/" width="36" height="36" alt="Tableau" /></a>&nbsp;
 </p>
 
 <br>
