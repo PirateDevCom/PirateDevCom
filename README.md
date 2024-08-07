@@ -12,19 +12,17 @@
 
 - 🖥️ See my portfolio at [my website](https://coolbytes.in/rajeev)
 
-- 💬 Ask me about **SQL, Python, Scala, Databases, AWS, ETL, Data Warehousing**
+- 💬 Ask me about **SQL, Databases, Python, AWS, ETL, Data Warehousing**
 
 - 🔭 I’m currently working on [my own web universe](https://coolbytes.in)
 
-- 🧠 I’m currently learning **Kubernetes, Graph Databases, PostgreSQL Internals**
-
-- 🤝 I’m looking for help with [building a custom WYSIWYG editor](https://www.npmjs.com/package/react-mui-editor)
+- 🧠 I’m currently learning **Docker, Kubernetes, Graph Databases, PostgreSQL Internals**
 
 - 📝 I regularly write articles on [Blog Byte](https://blog.coolbytes.in)
 
 - 👨‍💻 All of my projects are available at [Apps Byte](https://apps.coolbytes.in)
 
-- ⚡ I named a theme on my website after my son's nickname
+- 👶🏻 I named a theme on my website after my son's nickname
 
 <br>
 
@@ -99,8 +97,8 @@
         <img src="https://api.coolbytes.in/media/handle/view/image/172/" width="36" height="36" alt="Python" /></a>&nbsp;
     <a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank" rel="noreferrer">
         <img src="https://api.coolbytes.in/media/handle/view/image/243/" width="36" height="36" alt="C" /></a>&nbsp;
-    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://api.coolbytes.in/media/handle/view/image/171/" width="36" height="36" alt="Scala" /></a>&nbsp;
+<!--     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+        <img src="https://api.coolbytes.in/media/handle/view/image/171/" width="36" height="36" alt="Scala" /></a>&nbsp; -->
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://api.coolbytes.in/media/handle/view/image/170/" width="36" height="36" alt="JavaScript" /></a>&nbsp;
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
@@ -226,5 +224,5 @@
 ---
 
 <h6 align="center">
-    <i><a href="mailto:crowns.atoll-0t@icloud.com">📫 Contact me</a> to build something amazing together!</i>
+    <i><a href="mailto:admin@coolbytes.in">📫 Contact me</a> to build something amazing together!</i>
 </h6>
